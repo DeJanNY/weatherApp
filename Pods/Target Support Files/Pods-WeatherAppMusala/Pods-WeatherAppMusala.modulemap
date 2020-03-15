@@ -1,0 +1,6 @@
+framework module Pods_WeatherAppMusala {
+  umbrella header "Pods-WeatherAppMusala-umbrella.h"
+
+  export *
+  module * { export * }
+}
